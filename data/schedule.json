@@ -11,7 +11,7 @@
     "max_guests": 8
   },
   "meta": {
-    "last_updated": "2026-11-21T06:31:00+09:00",
+    "last_updated": "2026-11-21T11:28:00+09:00",
     "updated_by": "코치 (Pickle)",
     "pin": "0352",
     "pin_hint": "호스트 안내 4자리",
@@ -27,7 +27,7 @@
       "date": "2026-11-21",
       "level": "urgent",
       "title": "비데 정상 작동 확인",
-      "body": "11/20 14:00 비데 AS 재방문이 예정돼 있었지만 완료 여부가 아직 확인되지 않았습니다. 청소 중 비데 전원·분사·온수 버튼을 직접 눌러 확인하고, 작동하지 않으면 호스트에게 바로 알려주세요."
+      "body": "11/20 14:00 비데 AS 재방문 예정이었지만 게스트 확인 답변이 아직 없습니다. Gwanghun 님은 오늘 12:00 퇴실 예정이니, 청소 때 비데 전원·분사·온수 버튼을 직접 눌러 확인하고 작동하지 않으면 호스트에게 바로 알려주세요."
     },
     {
       "id": "roach-trap-1121",
@@ -47,7 +47,7 @@
       "checkout": "2026-11-21",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 2,
+      "adults": 4,
       "children": 0,
       "infants": 0,
       "guests_display": 4,
@@ -58,7 +58,7 @@
         }
       ],
       "ops_notes": [
-        "에어비앤비 표기 4명 (성인 2 + 고양이 1)",
+        "에어비앤비 예약 인원 4명 + 고양이 1마리",
         "주차 1대 — 공영주차장 부개동 206-1 지원",
         "11/20 13:00~13:30 조기 체크인 약속했던 게스트"
       ],
@@ -215,12 +215,13 @@
       "checkout": "2026-12-08",
       "checkout_time": "12:00",
       "nights": 3,
-      "adults": 5,
-      "children": 0,
+      "adults": 3,
+      "children": 2,
       "infants": 0,
       "guests_display": 5,
       "pets": [],
       "ops_notes": [
+        "어린이 2명 동반 — 침구·수건 넉넉히, 위험한 물건 높은 곳으로",
         "3박 장기 숙박 — 중간 청소·수건 교체 여유 있게"
       ],
       "host_notes": []
@@ -233,10 +234,10 @@
       "checkout": "2026-12-12",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 5,
+      "adults": 6,
       "children": 0,
       "infants": 0,
-      "guests_display": 5,
+      "guests_display": 6,
       "pets": [],
       "ops_notes": [],
       "host_notes": []
@@ -249,13 +250,13 @@
       "checkout": "2026-12-13",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 7,
+      "adults": 8,
       "children": 0,
       "infants": 0,
-      "guests_display": 7,
+      "guests_display": 8,
       "pets": [],
       "ops_notes": [
-        "7인 단체 — 침구 4세트·수건 풀세팅"
+        "8인 단체 — 침구 4세트·수건 풀세팅"
       ],
       "host_notes": []
     },
@@ -267,10 +268,10 @@
       "checkout": "2026-12-16",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 2,
+      "adults": 3,
       "children": 0,
       "infants": 0,
-      "guests_display": 2,
+      "guests_display": 3,
       "pets": [],
       "ops_notes": [],
       "host_notes": []
@@ -283,10 +284,10 @@
       "checkout": "2026-12-20",
       "checkout_time": "12:00",
       "nights": 2,
-      "adults": 5,
+      "adults": 6,
       "children": 0,
       "infants": 0,
-      "guests_display": 5,
+      "guests_display": 6,
       "pets": [],
       "ops_notes": [
         "2박 숙박"
@@ -301,10 +302,10 @@
       "checkout": "2026-12-22",
       "checkout_time": "12:00",
       "nights": 2,
-      "adults": 4,
+      "adults": 5,
       "children": 0,
       "infants": 0,
-      "guests_display": 4,
+      "guests_display": 5,
       "pets": [],
       "ops_notes": [
         "2박 숙박"
@@ -319,10 +320,10 @@
       "checkout": "2026-12-26",
       "checkout_time": "12:00",
       "nights": 2,
-      "adults": 6,
+      "adults": 7,
       "children": 0,
       "infants": 0,
-      "guests_display": 6,
+      "guests_display": 7,
       "pets": [],
       "ops_notes": [
         "6인 단체 · 성탄 연휴 — 침구·수건 넉넉히"
@@ -337,10 +338,10 @@
       "checkout": "2026-12-27",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 6,
+      "adults": 7,
       "children": 0,
       "infants": 0,
-      "guests_display": 6,
+      "guests_display": 7,
       "pets": [],
       "ops_notes": [
         "6인 단체 — 침구·수건 넉넉히"
@@ -355,10 +356,10 @@
       "checkout": "2026-12-28",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 6,
+      "adults": 7,
       "children": 0,
       "infants": 0,
-      "guests_display": 6,
+      "guests_display": 7,
       "pets": [],
       "ops_notes": [
         "6인 단체 — 침구·수건 넉넉히"
@@ -373,10 +374,10 @@
       "checkout": "2027-01-01",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 2,
+      "adults": 3,
       "children": 0,
       "infants": 0,
-      "guests_display": 2,
+      "guests_display": 3,
       "pets": [],
       "ops_notes": [
         "연말 1박 — 다음 입실(1/1)과 겹치므로 새해 첫날 청소"
@@ -388,9 +389,9 @@
       "guest": "소*",
       "checkin": "2027-01-01",
       "checkin_time": "15:00",
-      "checkout": null,
+      "checkout": "2027-01-02",
       "checkout_time": "12:00",
-      "nights": null,
+      "nights": 1,
       "adults": 7,
       "children": 0,
       "infants": 0,
@@ -398,7 +399,116 @@
       "pets": [],
       "ops_notes": [
         "7인 단체 — 침구 4세트·수건 풀세팅",
-        "퇴실일은 예약 화면에서 확인 필요"
+        "1/1 체크인 · 1/2 12:00 퇴실 (다음 게스트 8인 15:00 입실)"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "유*",
+      "checkin": "2027-01-02",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-03",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 8,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 8,
+      "pets": [],
+      "ops_notes": [
+        "8인 대인원 — 침구 4세트·수건 풀세팅 필요"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "Mi***",
+      "checkin": "2027-01-12",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-14",
+      "checkout_time": "12:00",
+      "nights": 2,
+      "adults": 8,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 8,
+      "pets": [],
+      "ops_notes": [
+        "8인 대인원 — 침구 4세트·수건 풀세팅 필요",
+        "2박 숙박 — 수건 여분"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "동*",
+      "checkin": "2027-01-15",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-16",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 8,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 8,
+      "pets": [],
+      "ops_notes": [
+        "8인 대인원 — 침구 4세트·수건 풀세팅 필요"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "Su**",
+      "checkin": "2027-01-16",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-17",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 5,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 5,
+      "pets": [],
+      "ops_notes": [
+        "5인 — 침구 3세트·수건 넉넉히"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "Ro**",
+      "checkin": "2027-01-17",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-19",
+      "checkout_time": "12:00",
+      "nights": 2,
+      "adults": 5,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 5,
+      "pets": [],
+      "ops_notes": [
+        "2박 숙박 — 수건 여분"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "기*",
+      "checkin": "2027-01-23",
+      "checkin_time": "15:00",
+      "checkout": "2027-01-24",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 8,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 8,
+      "pets": [],
+      "ops_notes": [
+        "8인 대인원 — 침구 4세트·수건 풀세팅 필요"
       ],
       "host_notes": []
     }
@@ -417,7 +527,7 @@
   "cleanings": {
     "2026-11-23": {
       "weather": {
-        "summary": "비 88%",
+        "summary": "비 89%",
         "rain": true
       },
       "notes": [
@@ -436,6 +546,11 @@
     "2026-11-28": {
       "notes": [
         "8인 대인원 입실 — 침구 4세트, 수건 여분까지 미리 준비해 두세요."
+      ]
+    },
+    "2027-01-02": {
+      "notes": [
+        "8인 퇴실 → 8인 입실, 3시간 안에 침구 4세트 교체·수건 풀세팅. 시간이 빠듯하니 12:00 퇴실 직후 바로 시작해 주세요."
       ]
     }
   },
