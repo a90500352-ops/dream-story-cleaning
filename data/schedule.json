@@ -11,7 +11,7 @@
     "max_guests": 8
   },
   "meta": {
-    "last_updated": "2026-11-22T07:05:00+09:00",
+    "last_updated": "2026-11-22T11:20:00+09:00",
     "updated_by": "코치 (Pickle)",
     "pin": "0352",
     "pin_hint": "호스트 안내 4자리",
@@ -79,14 +79,15 @@
       "checkout": "2026-11-23",
       "checkout_time": "12:00",
       "nights": 2,
-      "adults": 3,
-      "children": 1,
+      "adults": 4,
+      "children": 0,
       "infants": 0,
       "guests_display": 4,
       "pets": [],
       "ops_notes": [
-        "에어비앤비 표기 4명 (성인 3 + 1명)",
-        "2박 숙박 — 수건·비품 여유 있게"
+        "에어비앤비 표기 4명 — 전원 성인 (어린이·유아 없음)",
+        "2박 숙박 — 수건·비품 여유 있게",
+        "체류 중 온수 문제 문의 있었고 보일러 전원 안내 후 해결됨 (11/22 확인)"
       ],
       "host_notes": []
     },
