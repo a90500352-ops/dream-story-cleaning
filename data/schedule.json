@@ -11,7 +11,7 @@
     "max_guests": 8
   },
   "meta": {
-    "last_updated": "2026-11-22T11:20:00+09:00",
+    "last_updated": "2026-11-22T18:45:00+09:00",
     "updated_by": "코치 (Pickle)",
     "pin": "0352",
     "pin_hint": "호스트 안내 4자리",
@@ -106,7 +106,7 @@
       "pets": [],
       "ops_notes": [
         "6인 단체 — 침구·수건 넉넉히 세팅",
-        "11/23 비 예보 88% — 현관 매트·바닥 물기 확인"
+        "11/23 비 예보 92% — 현관 매트·바닥 물기 확인"
       ],
       "host_notes": []
     },
@@ -118,13 +118,15 @@
       "checkout": "2026-11-25",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 2,
+      "adults": 3,
       "children": 0,
       "infants": 1,
-      "guests_display": 3,
+      "guests_display": 4,
       "pets": [],
       "ops_notes": [
-        "유아 1명 동반 — 바닥 청결·모서리·콘센트 안전 확인"
+        "성인 3 + 유아 1(신생아) — 에어비앤비 인원 표기는 유아 제외 3명",
+        "유아 1명 동반 — 바닥 청결·모서리·콘센트 안전 확인",
+        "11/25 레이트 체크아웃 14:00 승인 (새 예약 없을 때 기준)"
       ],
       "host_notes": []
     },
@@ -170,14 +172,14 @@
       "checkout": "2026-11-29",
       "checkout_time": "12:00",
       "nights": 1,
-      "adults": 7,
-      "children": 1,
+      "adults": 8,
+      "children": 0,
       "infants": 0,
       "guests_display": 8,
       "pets": [],
       "ops_notes": [
         "8인 대인원 — 침구 4세트·수건 풀세팅 필요",
-        "에어비앤비 표기 8명 (성인 7 + 1명)"
+        "에어비앤비 인원 표기 8명 — 전원 성인(어린이·유아 없음)"
       ],
       "host_notes": []
     },
@@ -317,6 +319,25 @@
       "pets": [],
       "ops_notes": [
         "2박 숙박"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "도*",
+      "checkin": "2026-12-23",
+      "checkin_time": "15:00",
+      "checkout": "2026-12-24",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 2,
+      "pets": [],
+      "ops_notes": [
+        "11/22 신규 예약 (성인 2명, 1박)",
+        "전날 12/22 공실 — 청소 시간 여유 있음"
       ],
       "host_notes": []
     },
@@ -519,6 +540,97 @@
         "8인 대인원 — 침구 4세트·수건 풀세팅 필요"
       ],
       "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "에*",
+      "checkin": "2027-02-06",
+      "checkin_time": "15:00",
+      "checkout": "2027-02-08",
+      "checkout_time": "12:00",
+      "nights": 2,
+      "adults": 5,
+      "children": 0,
+      "infants": 2,
+      "guests_display": 7,
+      "pets": [],
+      "ops_notes": [
+        "2박 · 유아 2명 동반 — 유아 식기·매트·안전 커버 준비",
+        "에어비앤비 인원 표기는 유아 제외 5명"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "지*",
+      "checkin": "2027-02-27",
+      "checkin_time": "15:00",
+      "checkout": "2027-02-28",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 8,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 8,
+      "pets": [],
+      "ops_notes": [
+        "8인 대인원 — 침구 4세트·수건 풀세팅 필요"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "Mi*",
+      "checkin": "2027-04-03",
+      "checkin_time": "15:00",
+      "checkout": "2027-04-05",
+      "checkout_time": "12:00",
+      "nights": 2,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 1,
+      "pets": [],
+      "ops_notes": [
+        "1인 2박 — 침구 1세트"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "현*",
+      "checkin": "2027-05-01",
+      "checkin_time": "15:00",
+      "checkout": "2027-05-02",
+      "checkout_time": "12:00",
+      "nights": 1,
+      "adults": 7,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 7,
+      "pets": [],
+      "ops_notes": [
+        "7인 단체 — 침구 4세트·수건 풀세팅"
+      ],
+      "host_notes": []
+    },
+    {
+      "id": "",
+      "guest": "민*",
+      "checkin": "2027-07-30",
+      "checkin_time": "15:00",
+      "checkout": "2027-08-01",
+      "checkout_time": "12:00",
+      "nights": 2,
+      "adults": 4,
+      "children": 0,
+      "infants": 0,
+      "guests_display": 4,
+      "pets": [],
+      "ops_notes": [
+        "성수기 2박 — 냉방·에어컨 점검"
+      ],
+      "host_notes": []
     }
   ],
   "pending": [
@@ -539,8 +651,19 @@
         "rain": true
       },
       "notes": [
-        "비 예보 91% — 현관 매트 교체, 우산 꽂이 비치, 바닥 물기 제거까지 해 주세요.",
-        "12:00 퇴실(2박) → 15:00 6인 입실, 3시간 안에 침구 3세트·수건 풀세팅까지 마쳐 주세요."
+        "비 예보 92% (2~12°C, 오전 10시~오후 1시 비 집중) — 현관 매트 교체, 우산 꽂이 비치, 바닥 물기 제거까지 해 주세요.",
+        "12:00 퇴실(2박·4인) → 15:00 6인 입실, 3시간 안에 침구 3세트·수건 풀세팅까지 마쳐 주세요.",
+        "비데 전원·분사·온수 버튼 작동 확인 — 안 되면 호스트에게 바로 알려 주세요."
+      ]
+    },
+    "2026-11-24": {
+      "weather": {
+        "summary": "맑음·바람",
+        "rain": false
+      },
+      "notes": [
+        "12:00 6인 퇴실 → 15:00 유아 동반 일행(성인 3·신생아 1) 입실. 난방 미리 올리고 콘센트 커버·모서리 보호대·미끄럼 매트 준비해 주세요.",
+        "기온 -2~4°C·바람 강함 — 창문 환기는 짧게, 현관 냉기·바닥 냉기 확인."
       ]
     },
     "2026-11-25": {
@@ -556,6 +679,11 @@
     "2026-11-28": {
       "notes": [
         "8인 대인원 입실 — 침구 4세트, 수건 여분까지 미리 준비해 두세요."
+      ]
+    },
+    "2026-12-23": {
+      "notes": [
+        "12/23 신규 예약(성인 2·1박) — 전날 12/22 공실이라 오전부터 침구 건조·욕실 곰팡이 점검까지 하기 좋습니다."
       ]
     },
     "2027-01-02": {
